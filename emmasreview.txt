@@ -1,0 +1,5 @@
+This is a review of the git training on Friday 9th April
+
+Thanks for organising this training event, I've always avoiding having to learn how to use git in the past so this was great to finally learn how to use it. It wasn't as scary as I thought it was!
+
+Also yes please would like to know what this ssh thing is about :)
