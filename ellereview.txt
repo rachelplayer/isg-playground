@@ -1,0 +1,15 @@
+Great informal training session that was easy to follow and understand, although somehow I seemed to have a gift for breaking it.  
+The trainers provided lots of patient feedback.  
+If you hadn’t said this was the first time doing this online I would not have known.  
+I would have preferred to be in the same room as all you beautiful souls but alas Teams was the only option.  
+Despite this I thought it worked, sharing the screen meant it was easy to show where I was stuck, and with all the patient feedback and guidance I was not stuck for long.  
+As the only person with a Windows computer it was appreciated that we did not get into the Windows v Apple debate.
+Thank you for overlooking this and not taking me down this well-trodden path. 
+Only thing I would say is I felt a little sorry for the person I was put in a group with as he seemed to spend most of his time helping me which was very nice of him 
+but I’m sure this may have been a little tedious for him as he was more advanced than me.  
+I am not expecting to do technical work in the future but I can see the appeal of Git Hub and I can do the basics now, even if it may not always be through the Bash command 
+line so I think this will give me the confidence to do a few things I wasn’t sure about before, so thanks for that.  
+As I am not doing technical work, I am a little concerned that without repetition of this I may forget how to use it.  
+I would therefore really appreciate if you do this workshop again next year if I could please tag along as a refresher.   
+Thanks for making this interesting,
+Elle
